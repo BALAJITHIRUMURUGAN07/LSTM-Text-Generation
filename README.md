@@ -96,7 +96,3 @@ keep your friends close but enemies closer
 * Deploy as chatbot or web app
 
 ---
-
-
-Your Name
-
