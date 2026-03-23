@@ -76,7 +76,7 @@ keep your friends close but enemies closer
 
 ## 🖼️ Generated Output
 
-![Output](image.png)
+![Output](image(1).png)
 
 ---
 
